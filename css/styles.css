@@ -76,10 +76,9 @@ body {
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
-  background-color:#F5F4FA;
+  background-color: #f5f4fa;
   color: var(--brand-text-color);
   cursor: pointer;
-  
 }
 .section-hero > button:hover,
 .section-hero > button:focus {
@@ -193,7 +192,6 @@ body {
   letter-spacing: 0.03em;
   background-color: #f5f4fa;
   cursor: pointer;
-  
 }
 .portfolio-buttons-list:hover,
 .portfolio-buttons-list:focus {
